@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Enterprise-Pro/static/css/main.6d211d42.css",
+    "main.js": "/Enterprise-Pro/static/js/main.9c8a7a36.js",
+    "index.html": "/Enterprise-Pro/index.html",
+    "main.6d211d42.css.map": "/Enterprise-Pro/static/css/main.6d211d42.css.map",
+    "main.9c8a7a36.js.map": "/Enterprise-Pro/static/js/main.9c8a7a36.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6d211d42.css",
+    "static/js/main.9c8a7a36.js"
+  ]
+}
